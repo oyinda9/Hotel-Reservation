@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: skyblue;
+}
+
+
+
+/* Modified from: https://github.com/mukulkant/Star-rating-using-pure-css */
+
+.checkin{
+    display: flex;
+    padding-left: 20px;
+}
+.visit{
+    display: flex;
+}
+.performance{
+    display: inline;
+}

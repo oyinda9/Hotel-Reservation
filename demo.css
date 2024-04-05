@@ -1,0 +1,208 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+ }
+ .header{
+   display:flex;
+   background-color: royalblue;
+   width: 100%;
+   
+ }
+
+ .header_one{
+    width: 100%;
+    display: flex;
+    font-size: 13px;
+   
+ }
+ .header_one p{
+    font-size: 13px;
+    color: white;
+    padding-top: 20px;
+ }
+
+ .header_one img{
+    width: 20px;
+    margin: 20px;
+}
+
+.header_one a:hover{
+   color: grey;
+   
+}
+.sign{
+   width: 100%;
+    background-color: royalblue;
+   
+
+}
+.sign a{
+   float: right;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 15px;
+ 
+}
+.sign a:hover{
+   background-color: black;
+}
+ .social-icons{
+    width: auto;
+    background-color: royalblue;
+ }
+
+
+ .social-icons img{
+    width: 30px;
+    margin: 30px;
+    float: right;
+ }
+ .carousel-inner h5{
+    font-size: 40px;
+    color: black;
+
+ }
+ .middlepage{
+    width: 100%;
+    height: 30%;
+    background-color: white;
+    margin-top: 30px;
+    padding: 100px;
+ 
+ }
+ .nabvar{
+    
+    width: 100%;
+    height: auto;
+ }
+ .middlepage h2{
+    color: black;
+    font-weight: bolder;
+
+ }
+
+ .hotelsimages{
+    width: 100%;
+    background-color: skyblue;
+    display: flex;
+    padding: 50px;
+   
+ }
+
+ .card{
+    width: 400px;
+    height: 140px;
+    margin: 40px;
+ }
+
+ .specialtreatment{
+    display: inline-flex;
+ }
+
+ h1{
+    text-align: center;
+
+ }
+
+ .checked {
+    color: orange;
+  }
+
+  .bookus{
+    width: 100%;
+    height: 100%;
+    background-image: url('images/room4.jpg');
+    background-size: cover;
+    background-position: right;
+    background-color: rgba(0,0,0,0);
+    background-repeat: no-repeat;
+    
+    
+  }
+
+  .bookingform{
+    width: 900px;
+    height: 300px;
+    background-color:white;
+    padding: 40px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: black;
+    opacity: 0.9;
+    font-size: 10px;
+    color: black;
+   font-weight: 900;
+   font-size: 12px;
+   padding-bottom: 30px;
+  
+   
+  }
+
+  .bookingform form{
+   margin: 30px;
+   padding: 30px;
+   margin-top: 20px;
+
+   line-height: 2.0;
+   
+  }
+
+  .bookus h1{
+    font-size: 50px;
+    color: white;
+    padding-top: 40px;
+
+  }
+
+  .bookus span{
+    color: blue;
+
+  }
+
+  .footer{
+   width: 100%;
+   background-color: black;
+   height: 50%;
+   color: white;
+   padding: 160px;
+ 
+   
+  }
+
+.footer a{
+   color: white;
+   
+}
+
+.footer a:hover{
+   color: blue;
+}
+.footer-social{
+   font-size: 30px;
+}
+.footer form{
+   border-radius: 30px;
+}
+
+.lastpage{
+   width: 100%;
+   height: 40%;
+   background-color: white; 
+}
+.row {
+   display: flex;
+   padding-bottom: 20px;
+  
+   
+   
+ }
+ .row img{
+   width: 25%;
+   margin: auto;
+   transition: all 1s;
+ }
+ 
+ 
